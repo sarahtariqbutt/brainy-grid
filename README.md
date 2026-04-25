@@ -12,7 +12,13 @@ Unbeatable Tic-Tac-Toe AI using the Minimax algorithm.
 4 5 6
 7 8 9
 
+## Features:
 
+- Unbeatable AI using Minimax algorithm
+- Simple number-based input (1-9)
+- Automatic win/draw detection
+- Input validation
+  
 ## Game Flow:
 
 1. You move first
