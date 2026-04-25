@@ -7,25 +7,25 @@ Unbeatable Tic-Tac-Toe AI using the Minimax algorithm.
 - You are **X**, AI is **O**
 - Enter position (1-9) to place your mark
 
-**##Board positions:**
+## Board positions:
 1 2 3
 4 5 6
 7 8 9
 
 
-**##Game Flow:**
+## Game Flow:
 
 1. You move first
 2. AI responds automatically
 3. Game ends when someone wins or board fills
 
-**##Win Conditions:**
+## Win Conditions:
 
 - Three marks in a row (horizontally)
 - Three marks in a column (vertically)
 - Three marks in a diagonal
 
-**##Acknowledgments:**
+## Acknowledgments:
 
 - Inspired by classic Tic-Tac-Toe implementations
 - Minimax algorithm based on game theory principles
