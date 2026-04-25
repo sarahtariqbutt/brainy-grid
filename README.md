@@ -2,7 +2,7 @@
 
 Unbeatable Tic-Tac-Toe AI using the Minimax algorithm.
 
-## How to Play
+## How to Play:
 
 - You are **X**, AI is **O**
 - Enter position (1-9) to place your mark
