@@ -7,11 +7,13 @@ Unbeatable Tic-Tac-Toe AI using the Minimax algorithm.
 - You are **X**, AI is **O**
 - Enter position (1-9) to place your mark
 
-## Board positions:
-1 2 3
-4 5 6
-7 8 9
-
+```text
+ 1 | 2 | 3 
+---|---|---
+ 4 | 5 | 6 
+---|---|---
+ 7 | 8 | 9
+```
 ## Features:
 
 - Unbeatable AI using Minimax algorithm
